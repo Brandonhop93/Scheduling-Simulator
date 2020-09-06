@@ -1,9 +1,3 @@
-/*
- *  Brandon Hopkins - C3290146
- *  Software Engineering - COMP2240
- *  Assignment 1
- */
-
 import java.util.LinkedList;
 
 public class FCFS extends Algorithm
